@@ -4,9 +4,8 @@ title: About
 sidebar_link: true
 sidebar_sort_order: 1
 ---
-I'm an Assistant Professor of Economics at Brock University interested in law, health, and public economics.
+I am a second year PhD student in the Department of Economics at Florida State University. 
 
-I like coffee, Dungeons & Dragons, and grumbling about the Toronto Maple Leafs.
+My primary research interests are in the economics of education, labor economics, and experimental economics. 
 
-Office: 433 Plaza Building
-Want to book a meeting? [Sign up here](https://taylorjwright.youcanbook.me/)
+I received a M.A. (2019) and B.A. (2016) in Economics from the University of New Hampshire.
