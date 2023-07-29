@@ -20,7 +20,7 @@ email:          mdarisse@fsu.edu
 
 
 paginate:         5
-paginate_path:    '/blog/page:num'
+# paginate_path:    '/blog/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 google_analytics:   UA-150989928-1
 
