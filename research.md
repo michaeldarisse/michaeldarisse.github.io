@@ -28,6 +28,6 @@ Cleaning, preparing, merging and analysis of large datasets using Stata and R
 #### Research Assistant – Empirical Evaluations of Non-Experimental Methods in Field Settings
 Read within-study comparisons to assess non-experimental design methods and coded study information in a database
 
-# Research Assistant – Assistant Teaching Professor at Wake Forest University Stephan Shipe
+#### Research Assistant – Assistant Teaching Professor at Wake Forest University Stephan Shipe
 Created data with specific characteristics in order to train a machine learning algorithm to identify graphic aids using investment advisor ADV Forms
 Performed literature reviews pertaining to CEO gender and financial performance as well as fiduciary duty to investment advisory clients
