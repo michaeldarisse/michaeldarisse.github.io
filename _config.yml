@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Taylor Wright
-tagline:          'Taylor Wright'
-description:      'Assistant Professor of Economics at Brock University. I research law, health, and public economics.'
-url:              https://taylorjwright.github.io
+title:            Michael Darisse
+tagline:          'Michael Darisse'
+description:      'Economics PhD Student at Florida State University.'
+url:              https://michaeldarisse.github.io
 baseurl:          #
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,9 +14,9 @@ baseurl:          #
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:          Taylor Wright
-name:           'Taylor Wright'
-email:          twright3@brocku.ca
+author:          Michael Darisse
+name:           'Michael Darisse'
+email:          mdarisse@fsu.edu
 
 
 paginate:         5
