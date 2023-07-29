@@ -43,7 +43,7 @@ img{
 .thumbnail {
     border-width: 3px;
     border-style: solid;
-    border-color: #99150E;
+    border-color: #ace7f8;
     border-radius: 50%;
     display: block;
     margin-left: auto;
@@ -89,7 +89,7 @@ img{
 
   a {
     color: $gray-6;
-    border-bottom: .1em solid #99150E;
+    border-bottom: .1em solid #ace7f8;
     // background-color: ligthen(#EF8354, 50%);
 
     &:hover {
@@ -272,7 +272,7 @@ img{
 
   &.active {
     // font-weight: bold;
-    color: #99150E;
+    color: #ace7f8;
   }
 }
 
