@@ -8,6 +8,6 @@ sidebar_sort_order: 3
 
 ### Teaching Assistant
 
-#### Florida State University
+#### *Florida State University*
 - Introduction to Econometrics (Summer 2023)
 - Intermediate Microeconomic Theory (Spring 2023)
