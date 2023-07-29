@@ -7,13 +7,13 @@ sidebar_sort_order: 2
 ---
 
 
-### Publications
+### [**Publications**]
 
 Lars Vilhuber, Hyuk Son, Meredith Welch, David Wasser, & Michael Darisse. (2022). [**Teaching for large-scale Reproducibility Verification.**](https://doi.org/10.1080/26939169.2022.2074582) *Journal of Statistics and Data Science Education*.
 
 ### Research Experience
 
-#### Research Aide & Assistant Data Editor – Cornell University Labor Dynamics Institute
+#### Research Aide & Assistant Data Editor – Cornell University [Labor Dynamics Institute](https://labordynamicsinstitute.github.io/)
 
 - Independently replicate academic papers set for publication in AEA journals and prepare detailed reports on the replication process
 - Debug computer code used in authors’ replication packages
@@ -25,7 +25,7 @@ Lars Vilhuber, Hyuk Son, Meredith Welch, David Wasser, & Michael Darisse. (2022)
 - Work with data from the Department of Education and Training in Victoria Australia to understand the value added of schools to a student’s education and development
 - Cleaning, preparing, merging and analysis of large datasets using Stata and R
 
-#### Research Assistant – Empirical Evaluations of Non-Experimental Methods in Field Settings
+#### Research Assistant – [Empirical Evaluations of Non-Experimental Methods in Field Settings](https://education.virginia.edu/research-initiatives/research-centers-labs/edpolicyworks/edpolicyworks-research-projects/methodology-measurement/empirical-evaluations-non-experimental-methods-theory-application-and-synthesis)
 - Read within-study comparisons to assess non-experimental design methods and coded study information in a database
 
 #### Research Assistant – Assistant Teaching Professor at Wake Forest University Stephan Shipe
