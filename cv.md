@@ -7,5 +7,4 @@ sidebar_sort_order: 4
 ---
 
 <object data="{{ site.url }}/assets/MDarisse_CV.pdf" type='application/pdf' width="100%" style="height:calc(100vh)">
-<p>It doesn't look like you can view the pdf. [View my CV here]({{ site.url }}/assets/MDarisse_CV.pdf)</p>
-</object>
+[View my CV here](https://michaeldarisse.github.io/mdarisse_cv/MDarisse_CV.pdf)
