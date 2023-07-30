@@ -4,19 +4,10 @@ title: Research
 permalink: /research/
 sidebar_link: true
 sidebar_sort_order: 2
-years: [2022]
-nav: true
 ---
 
 
 ### Publications
-
-<div class="publications">
-
-<!-- Publications -->
-<h3  class="pubyear">Publications</h3>
-{% bibliography -f publications %}
-</div>
 
 Lars Vilhuber, Hyuk Son, Meredith Welch, David Wasser, & Michael Darisse. (2022). [**Teaching for large-scale Reproducibility Verification.**](https://doi.org/10.1080/26939169.2022.2074582) *Journal of Statistics and Data Science Education*.
 
