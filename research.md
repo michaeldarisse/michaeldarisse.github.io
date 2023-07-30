@@ -11,7 +11,7 @@ sidebar_sort_order: 2
 
 <div class="publications">
 
-<!-- Working Papers -->
+<!-- Publications -->
 <h3  class="pubyear">Publications</h3>
 {% bibliography -f publications %}
 </div>
