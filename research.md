@@ -15,11 +15,15 @@ sidebar_sort_order: 2
 
 #### Research Aide & Assistant Data Editor – Cornell University [Labor Dynamics Institute](https://labordynamicsinstitute.github.io/)
 
-- Independently replicate academic papers set for publication in AEA journals and prepare detailed reports on the replication process
-- Debug computer code used in authors’ replication packages
-- Work directly with the Data Editor of the American Economic Association to manage 15-20 undergraduate Research Assistants
-- Assist in the hiring and training of all undergraduate Research Assistants
-- Handle all lab coordination efforts including case assignment and requests for restricted data access
+Independently replicate academic papers set for publication in AEA journals and prepare detailed reports on the replication process
+
+Debug computer code used in authors’ replication packages
+
+Work directly with the Data Editor of the American Economic Association to manage 15-20 undergraduate Research Assistants
+
+Assist in the hiring and training of all undergraduate Research Assistants
+
+Handle all lab coordination efforts including case assignment and requests for restricted data access
 
 #### Research Assistant – Texas A&M Professors [Marco Castillo](http://www.marcocastillo.org) and [Ragan Petrie](http://www.raganpetrie.org)
 - Work with data from the Department of Education and Training in Victoria Australia to understand the value added of schools to a student’s education and development
