@@ -13,25 +13,14 @@ sidebar_sort_order: 2
 
 ### Research Experience
 
-#### Research Aide & Assistant Data Editor – Cornell University [Labor Dynamics Institute](https://labordynamicsinstitute.github.io/)
+Research Aide & Assistant Data Editor – Cornell University [Labor Dynamics Institute](https://labordynamicsinstitute.github.io/) (August 2020 - July 2022)
+Dr. [Lars Vilhuber](https://www.vilhuber.com/lars/); Reproducibility Evaluation of AEA Journals
 
-Independently replicate academic papers set for publication in AEA journals and prepare detailed reports on the replication process
+Research Assistant – Texas A&M University (January 2021 - July 2022)
+Professors [Marco Castillo](http://www.marcocastillo.org) and [Ragan Petrie](http://www.raganpetrie.org); Data preparation and analysis for school value-added in Victoria, Australia project
 
-Debug computer code used in authors’ replication packages
+Research Assistant – University of Virginia (January 2020 - August 2020)
+Associate Professor [Vivian C. Wong](https://education.virginia.edu/about/directory/vivian-wong) and Professor [Peter M. Steiner](https://education.umd.edu/directory/peter-m-steiner); [Empirical Evaluations of Non-Experimental Methods in Field Settings](https://education.virginia.edu/research-initiatives/research-centers-labs/edpolicyworks/edpolicyworks-research-projects/methodology-measurement/empirical-evaluations-non-experimental-methods-theory-application-and-synthesis)
 
-Work directly with the Data Editor of the American Economic Association to manage 15-20 undergraduate Research Assistants
-
-Assist in the hiring and training of all undergraduate Research Assistants
-
-Handle all lab coordination efforts including case assignment and requests for restricted data access
-
-#### Research Assistant – Texas A&M Professors [Marco Castillo](http://www.marcocastillo.org) and [Ragan Petrie](http://www.raganpetrie.org)
-- Work with data from the Department of Education and Training in Victoria Australia to understand the value added of schools to a student’s education and development
-- Cleaning, preparing, merging and analysis of large datasets using Stata and R
-
-#### Research Assistant – [Empirical Evaluations of Non-Experimental Methods in Field Settings](https://education.virginia.edu/research-initiatives/research-centers-labs/edpolicyworks/edpolicyworks-research-projects/methodology-measurement/empirical-evaluations-non-experimental-methods-theory-application-and-synthesis)
-- Read within-study comparisons to assess non-experimental design methods and coded study information in a database
-
-#### Research Assistant – Assistant Teaching Professor at Wake Forest University [Stephan Shipe](https://www.stephanshipe.com)
-- Created data with specific characteristics in order to train a machine learning algorithm to identify graphic aids using investment advisor ADV Forms
-- Performed literature reviews pertaining to CEO gender and financial performance as well as fiduciary duty to investment advisory clients
+Research Assistant – University of New Hampshire (January 2019 - June 2019)
+Assistant Teaching Professor [Stephan Shipe](https://www.stephanshipe.com); Training of machine learning algorithm for Fee Tables and Investor Comprehension of Fees project
