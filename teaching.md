@@ -10,6 +10,8 @@ sidebar_sort_order: 3
 
 #### *Florida State University*
 
+PhD Econometrics II (Spring 2024)
+
 PhD Econometrics I (Fall 2023)
 
 Introduction to Econometrics (Summer 2023)
