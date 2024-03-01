@@ -23,4 +23,4 @@ Research Assistant – University of Virginia (January 2020 - August 2020)
 <br /> Associate Professor [Vivian C. Wong](https://education.virginia.edu/about/directory/vivian-wong) and Professor [Peter M. Steiner](https://education.umd.edu/directory/peter-m-steiner); [Empirical Evaluations of Non-Experimental Methods in Field Settings](https://education.virginia.edu/research-initiatives/research-centers-labs/edpolicyworks/edpolicyworks-research-projects/methodology-measurement/empirical-evaluations-non-experimental-methods-theory-application-and-synthesis)
 
 Research Assistant – University of New Hampshire (January 2019 - June 2019)
-<br /> Assistant Teaching Professor [Stephan Shipe](https://www.stephanshipe.com); Training of machine learning algorithm for Fee Tables and Investor Comprehension of Fees project
+<br /> Assistant Professor [Stephan Shipe](https://www.stephanshipe.com); Training of machine learning algorithm for Fee Tables and Investor Comprehension of Fees project
