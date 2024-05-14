@@ -8,6 +8,10 @@ sidebar_sort_order: 3
 
 ### *Florida State University*
 
+#### Instructor of Record
+
+Analysis of Economic Data - Summer 2024
+
 #### Teaching Assistant
 
 Econometrics II (PhD Level) - TA and Recitation Instructor for Cynthia Fan Yang - Spring 2024
