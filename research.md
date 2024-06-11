@@ -11,6 +11,12 @@ sidebar_sort_order: 2
 
 [Lars Vilhuber](https://www.vilhuber.com/lars/), [Hyuk Son](https://hyukhson.github.io), [Meredith Welch](https://www.meredithswelch.com), [David Wasser](https://www.davidnwasser.com), and Michael Darisse. (2022). [**Teaching for large-scale Reproducibility Verification.**](https://doi.org/10.1080/26939169.2022.2074582) *Journal of Statistics and Data Science Education*.
 
+### Work In Progress
+
+"The Impact of Attending Elite Exam Schools for Disadvantaged Students: Evidence from New York City's Discovery Program"
+    
+"The Northwest Ordinances and the Formation of Educational Norms and Values" (with James Schulte)
+
 ### Research Experience
 
 Research Aide & Assistant Data Editor – Cornell University [Labor Dynamics Institute](https://labordynamicsinstitute.github.io/) (August 2020 - July 2022)
