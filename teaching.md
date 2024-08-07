@@ -14,9 +14,9 @@ Analysis of Economic Data - Summer 2024
 
 #### Teaching Assistant
 
-Econometrics II (PhD Level) - TA and Recitation Instructor for Cynthia Fan Yang - Spring 2024
+Econometrics II (PhD) - TA and Recitation Instructor for Cynthia Fan Yang - Spring 2024
 
-Econometrics I (PhD Level) - TA and Recitation Instructor for Matthew Gentry - Fall 2023
+Econometrics I (PhD) - TA and Recitation Instructor for Matthew Gentry - Fall 2023
 
 Introduction to Econometrics (Undergraduate) - TA for Doug Norton - Summer 2023
 
