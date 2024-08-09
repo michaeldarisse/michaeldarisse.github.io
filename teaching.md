@@ -10,7 +10,9 @@ sidebar_sort_order: 3
 
 #### Instructor of Record
 
-Analysis of Economic Data - Summer 2024
+Analysis of Economic Data - Summer 2024 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Student Evaluations - 4.5/5
+  
 
 #### Teaching Assistant
 
