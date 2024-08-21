@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 sidebar_sort_order: 1
 ---
-I am a second year Ph.D. student in the Department of Economics at Florida State University. 
+I am a third year Ph.D. student in the Department of Economics at Florida State University. 
 
 My primary research interests are in the economics of education, labor economics, and economic history. 
 
