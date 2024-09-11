@@ -17,14 +17,17 @@ sidebar_sort_order: 2
 
 ### Research Experience
 
+Research Assistant – Florida State University (Fall 2024)
+<br /> [Carl Kitchens](https://sites.google.com/site/kitchct/) and [Luke Rodgers](https://sites.google.com/site/lukeprodgers/home)
+
 Research Aide & Assistant Data Editor – Cornell University [Labor Dynamics Institute](https://labordynamicsinstitute.github.io/) (August 2020 - July 2022)
-<br /> Dr. [Lars Vilhuber](https://www.vilhuber.com/lars/); Reproducibility Evaluation of AEA Journals
+<br /> [Lars Vilhuber](https://www.vilhuber.com/lars/); Reproducibility Evaluation of AEA Journals
 
 Research Assistant – Texas A&M University (January 2021 - July 2022)
-<br /> Professors [Marco Castillo](http://www.marcocastillo.org) and [Ragan Petrie](http://www.raganpetrie.org); Data preparation and analysis for school value-added in Victoria, Australia project
+<br /> [Marco Castillo](http://www.marcocastillo.org) and [Ragan Petrie](http://www.raganpetrie.org); Data preparation and analysis for school value-added in Victoria, Australia project
 
 Research Assistant – University of Virginia (January 2020 - August 2020)
-<br /> Associate Professor [Vivian C. Wong](https://education.virginia.edu/about/directory/vivian-wong) and Professor [Peter M. Steiner](https://education.umd.edu/directory/peter-m-steiner); [Empirical Evaluations of Non-Experimental Methods in Field Settings](https://education.virginia.edu/research-initiatives/research-centers-labs/edpolicyworks/edpolicyworks-research-projects/methodology-measurement/empirical-evaluations-non-experimental-methods-theory-application-and-synthesis)
+<br /> [Vivian C. Wong](https://education.virginia.edu/about/directory/vivian-wong) and [Peter M. Steiner](https://education.umd.edu/directory/peter-m-steiner); [Empirical Evaluations of Non-Experimental Methods in Field Settings](https://education.virginia.edu/research-initiatives/research-centers-labs/edpolicyworks/edpolicyworks-research-projects/methodology-measurement/empirical-evaluations-non-experimental-methods-theory-application-and-synthesis)
 
 Research Assistant – University of New Hampshire (January 2019 - June 2019)
-<br /> Assistant Professor [Stephan Shipe](https://www.stephanshipe.com); Training of machine learning algorithm for Fee Tables and Investor Comprehension of Fees project
+<br /> [Stephan Shipe](https://www.stephanshipe.com); Training of machine learning algorithm for Fee Tables and Investor Comprehension of Fees project
