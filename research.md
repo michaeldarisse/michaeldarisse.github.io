@@ -14,8 +14,6 @@ sidebar_sort_order: 2
 ### Work In Progress
 
 "The Impact of Attending Elite Exam Schools for Disadvantaged Students: Evidence from New York City's Discovery Program"
-    
-"The Northwest Ordinances and the Formation of Educational Norms and Values" (with James Schulte)
 
 ### Research Experience
 
