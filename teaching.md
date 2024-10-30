@@ -11,7 +11,7 @@ sidebar_sort_order: 3
 #### Instructor of Record
 
 Analysis of Economic Data - Summer 2024 <br>
-<span style="color:#ACE7F8">
+<span style="color:#2D3142">
 &nbsp;&nbsp;&nbsp;&nbsp;Student Evaluations - 4.5/5
 </span>
 
