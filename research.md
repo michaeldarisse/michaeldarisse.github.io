@@ -13,8 +13,7 @@ sidebar_sort_order: 2
 
 #### Work In Progress
 
-"The Impact of Attending Elite Exam Schools for Disadvantaged Students: Evidence from New York City's Discovery Program"
-<span style="color:Sienna">
+<span style="color:SaddleBrown">
 The Impact of Attending Elite Exam Schools for Disadvantaged Students: Evidence from New York City's Discovery Program
 </span>
 
