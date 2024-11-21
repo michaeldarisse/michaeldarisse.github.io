@@ -7,15 +7,18 @@ sidebar_sort_order: 2
 ---
 
 
-### Publications
+#### Publications
 
 [Lars Vilhuber](https://www.vilhuber.com/lars/), [Hyuk Son](https://hyukhson.github.io), [Meredith Welch](https://www.meredithswelch.com), [David Wasser](https://www.davidnwasser.com), and Michael Darisse. (2022). [**Teaching for large-scale Reproducibility Verification.**](https://doi.org/10.1080/26939169.2022.2074582) *Journal of Statistics and Data Science Education*.
 
-### Work In Progress
+#### Work In Progress
 
 "The Impact of Attending Elite Exam Schools for Disadvantaged Students: Evidence from New York City's Discovery Program"
+<span style="color:Sienna">
+The Impact of Attending Elite Exam Schools for Disadvantaged Students: Evidence from New York City's Discovery Program
+</span>
 
-### Research Experience
+#### Research Experience
 
 Research Assistant – Florida State University (Fall 2024)
 <br /> [Carl Kitchens](https://sites.google.com/site/kitchct/) and [Luke Rodgers](https://sites.google.com/site/lukeprodgers/home)
