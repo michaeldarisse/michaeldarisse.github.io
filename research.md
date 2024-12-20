@@ -13,7 +13,10 @@ sidebar_sort_order: 2
 
 #### Work In Progress
 
-The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program
+The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program <br>
+<span>
+&nbsp;&nbsp;&nbsp;&nbsp;Presented at: AEFP 2025 (Scheduled)
+</span>
 
 #### Research Experience
 
