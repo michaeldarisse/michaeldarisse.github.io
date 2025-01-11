@@ -13,14 +13,16 @@ sidebar_sort_order: 2
 
 #### Work In Progress
 
-The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program <br>
+"The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program" <br>
 <span>
 &nbsp;&nbsp;&nbsp;&nbsp;Presented at: [AEFP](https://aefpweb.org) 2025 (Scheduled)
 </span>
 
+"Universal School Vouchers and Property Values" (with Carl Kitchens)
+
 #### Research Experience
 
-Research Assistant – Florida State University (Fall 2024)
+Research Assistant – Florida State University (Fall 2024, Spring 2025)
 <br /> [Carl Kitchens](https://sites.google.com/site/kitchct/) and [Luke Rodgers](https://sites.google.com/site/lukeprodgers/home)
 
 Research Aide & Assistant Data Editor – Cornell University [Labor Dynamics Institute](https://labordynamicsinstitute.github.io/) (August 2020 - July 2022)
