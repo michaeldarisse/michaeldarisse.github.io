@@ -17,9 +17,8 @@ Analysis of Economic Data - Summer 2024 <br>
 
 
 <details>
-  <summary>Course Title: Analysis of Economic Data</summary>
+  <summary>Analysis of Economic Data - Summer 2024</summary>
   <p>Course Description: A deep dive into advanced drawing techniques, focusing on shading, perspective, and composition.</p>
-  <p><strong>Year:</strong> Summer 2024</p>
   <p><strong>Evaluations:</strong> 4.5/5</p>
 </details>
 
