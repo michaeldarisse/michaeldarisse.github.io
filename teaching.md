@@ -24,17 +24,6 @@ Analysis of Economic Data - Summer 2024 <br>
     position: relative;
   }
 
-  summary::before {
-    content: '+';
-    position: absolute;
-    left: -20px; /* Adjust the position as needed */
-    font-weight: bold;
-  }
-
-  details[open] summary::before {
-    content: '-'; /* Change the symbol when expanded */
-  }
-
   details {
     margin-bottom: 10px;
   }
