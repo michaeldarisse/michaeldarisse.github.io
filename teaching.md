@@ -15,12 +15,45 @@ Analysis of Economic Data - Summer 2024 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Student Evaluations - 4.5/5
 </span>
 
+## Teaching
+
+<style>
+  summary {
+    list-style: none; /* Removes the default arrow */
+    cursor: pointer;
+    position: relative;
+  }
+
+  summary::before {
+    content: '+';
+    position: absolute;
+    left: -20px; /* Adjust the position as needed */
+    font-weight: bold;
+  }
+
+  details[open] summary::before {
+    content: '-'; /* Change the symbol when expanded */
+  }
+
+  details {
+    margin-bottom: 10px;
+  }
+</style>
+
 <details>
-  <summary>Course Title: Analysis of Economic Data</summary>
+  <summary>Course Title: Advanced Drawing Techniques</summary>
   <p><strong>Description:</strong> A deep dive into advanced drawing techniques, focusing on shading, perspective, and composition.</p>
-  <p><strong>Year:</strong> Summer 2024</p>
-  <p><strong>Topics:</strong> Test topics</p>
+  <p><strong>Year:</strong> 2023</p>
+  <p><strong>Topics:</strong> Portrait Drawing, Figure Studies, Landscape Sketching</p>
 </details>
+
+<details>
+  <summary>Course Title: Intro to Painting</summary>
+  <p><strong>Description:</strong> An introduction to various painting methods and media, including oil and acrylic.</p>
+  <p><strong>Year:</strong> 2022</p>
+  <p><strong>Topics:</strong> Color Theory, Brush Techniques, Canvas Preparation</p>
+</details>
+
   
 
 #### Teaching Assistant
