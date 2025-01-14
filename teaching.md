@@ -23,7 +23,7 @@ first builds a strong foundation in probability and statistics before covering b
 practical applications of regression analysis. Upon completion of this course, students should
 possess the level of understanding of these concepts that is required for ECO 4421 (Introduction
 to Econometrics).</p>
-  <p><strong>Evaluations:</strong> 4.5/5</p>
+  <p>Evaluations: 4.5/5</p>
 </details>
 
   
