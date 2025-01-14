@@ -15,7 +15,12 @@ Analysis of Economic Data - Summer 2024 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Student Evaluations - 4.5/5
 </span>
 
-
+<details>
+  <summary>Course Title: Analysis of Economic Data</summary>
+  <p><strong>Description:</strong> A deep dive into advanced drawing techniques, focusing on shading, perspective, and composition.</p>
+  <p><strong>Year:</strong> Summer 2024</p>
+  <p><strong>Topics:</strong> Test topics</p>
+</details>
   
 
 #### Teaching Assistant
