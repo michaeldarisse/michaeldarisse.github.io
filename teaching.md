@@ -25,9 +25,7 @@ possess the level of understanding of these concepts that is required for Introd
 to Econometrics.</p>
   <p>Evaluations: 4.5/5</p>
     <ul>
-    <li>Color Theory</li>
-    <li>Brush Techniques</li>
-    <li>Canvas Preparation</li>
+    Color Theory
   </ul>
 </details>
 
