@@ -18,11 +18,11 @@ Analysis of Economic Data - Summer 2024 <br>
 
 <details>
   <summary>Analysis of Economic Data - Summer 2024</summary>
-  <p>Course Description: This course provides students with an introduction to visualizing and analyzing economic data. It
+  <p><ul>Course Description: This course provides students with an introduction to visualizing and analyzing economic data. It
 first builds a strong foundation in probability and statistics before covering both the theory and
 practical applications of regression analysis. Upon completion of this course, students should
 possess the level of understanding of these concepts that is required for Introduction
-to Econometrics.</p>
+to Econometrics.<ul></p>
   <p><ul>Evaluations: 4.5/5</ul></p>  
 </details>
 
