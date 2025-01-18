@@ -18,7 +18,7 @@ sidebar_sort_order: 2
 &nbsp;&nbsp;&nbsp;&nbsp;Presented at: [AEFP](https://aefpweb.org) 2025 (Scheduled)
 </span>
 
-"Universal School Vouchers and Property Values" (with Carl Kitchens)
+"Universal School Vouchers and Property Values" (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
 
 #### Research Experience
 
