@@ -11,7 +11,7 @@ sidebar_sort_order: 2
 
 "The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program" <br>
 <span>
-&nbsp;&nbsp;&nbsp;&nbsp;Presented at: [AEFP](https://aefpweb.org) 2025 (Scheduled)
+&nbsp;&nbsp;&nbsp;&nbsp;Presented at: [AEFP](https://aefpweb.org) 2025
 </span>
 
 "Universal School Vouchers and Property Values" (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
