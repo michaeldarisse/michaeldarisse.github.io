@@ -14,7 +14,7 @@ sidebar_sort_order: 2
 &nbsp;&nbsp;&nbsp;&nbsp;Presented at: [AEFP](https://aefpweb.org) 2025, New York City Independent Budget Office
 </span>
 
-"Universal School Vouchers and Property Values" (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
+"Universal School Choice and Property Values" (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
 
 #### Publications
 
