@@ -9,7 +9,7 @@ sidebar_sort_order: 2
 
 #### Work In Progress
 
-<span style="color: #2055A4;">"The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program" <span><br>
+<span style="color: #2055A4;">"The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program"</span><br>
 <span>
 &nbsp;&nbsp;&nbsp;&nbsp;Presented at: [AEFP](https://aefpweb.org) 2025, New York City Independent Budget Office
 </span>
