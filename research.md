@@ -10,12 +10,11 @@ sidebar_sort_order: 2
 #### Work In Progress
 
 <span style="color: #2055A4;">"The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program"</span><br>
-<span>
-&nbsp;&nbsp;&nbsp;&nbsp;Presented at: [AEFP](https://aefpweb.org) 2025, New York City Independent Budget Office
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #2055A4;">Presented at:</span> [AEFP](https://aefpweb.org) 2025, New York City Independent Budget Office
 </span>
 
-"Universal School Choice and Property Values" (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
+<span style="color: #2055A4;">"Universal School Choice and Property Values"</span> (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
 
 #### Publications
 
-[Lars Vilhuber](https://www.vilhuber.com/lars/), [Hyuk Son](https://hyukhson.github.io), [Meredith Welch](https://www.meredithswelch.com), [David Wasser](https://www.davidnwasser.com), and Michael Darisse. (2022). [**Teaching for large-scale Reproducibility Verification.**](https://doi.org/10.1080/26939169.2022.2074582) *Journal of Statistics and Data Science Education*.
+[Lars Vilhuber](https://www.vilhuber.com/lars/), [Hyuk Son](https://hyukhson.github.io), [Meredith Welch](https://www.meredithswelch.com), [David Wasser](https://www.davidnwasser.com), and Michael Darisse. (2022). [**<span style="color: #2055A4;">Teaching for large-scale Reproducibility Verification</span>.**](https://doi.org/10.1080/26939169.2022.2074582) *Journal of Statistics and Data Science Education*.
