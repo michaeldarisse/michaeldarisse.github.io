@@ -14,6 +14,10 @@ sidebar_sort_order: 2
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #2055A4;">Presented at:</span> [AEFP](https://aefpweb.org) 2025, New York City Independent Budget Office
 </span>
 
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #2055A4;">Abstract:</span>
+
+> This paper studies the New York City Department of Education Discovery Program, an affirmative action policy implemented to increase access to some of New York City’s most elite public high schools. The Discovery Program allocates reserve seats at New York City’s exam schools to disadvantaged students who successfully complete the course requirements of a three- to five- week summer program. Using a regression discontinuity design (RDD) and student-level administrative data I estimate the causal impact of exam school admission through the Discovery Program on educational outcomes. I find that while students experience an initial reduction in high school GPA, this negative effect does not persist into later years. Conversely, reserve seat offers increase performance on standardized math test scores.
+
 <span style="color: #2055A4;">"Universal School Choice and Property Values"</span> (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
 
 #### Publications
