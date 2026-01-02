@@ -18,7 +18,7 @@ sidebar_sort_order: 2
 
 <span style="color: #2055A4;">"Universal School Choice and Property Values"</span> (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
 
-<span style="color: #2055A4;">"Teachers in Hard Times: Economic Crises and the Teacher Labor Market"</span> 
+<span style="color: #2055A4;">"Retrenchment at the Blackboard: How Economic Crises Reshape the Teacher Labor Market"</span> 
 
 
 
