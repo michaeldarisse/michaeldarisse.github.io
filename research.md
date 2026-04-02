@@ -25,4 +25,4 @@ sidebar_sort_order: 2
 
 #### Publications
 
-[Lars Vilhuber](https://www.vilhuber.com/lars/), [Hyuk Son](https://hyukhson.github.io), [Meredith Welch](https://www.meredithswelch.com), [David Wasser](https://www.davidnwasser.com), and Michael Darisse. (2022). [**<span style="color: #2055A4;">Teaching for large-scale Reproducibility Verification</span>.**](https://doi.org/10.1080/26939169.2022.2074582) *Journal of Statistics and Data Science Education*.
+[<span style="color: #2055A4;">"Teaching for large-scale Reproducibility Verification"</span>](https://doi.org/10.1080/26939169.2022.2074582) (with [Lars Vilhuber](https://www.vilhuber.com/lars/), [Hyuk Son](https://hyukhson.github.io), [Meredith Welch](https://www.meredithswelch.com), and [David Wasser](https://www.davidnwasser.com)). 2022. *Journal of Statistics and Data Science Education*, 30(3): 274–281.
