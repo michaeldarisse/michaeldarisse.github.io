@@ -6,8 +6,7 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-
-#### Work In Progress
+#### Working Papers
 
 <span style="color: #2055A4;">"The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program"</span>
 
@@ -15,6 +14,7 @@ sidebar_sort_order: 2
 
 <span style="font-size: 0.8em;">*Presented at: AEFP 2025, New York City Independent Budget Office, SEA 2025, University of New Hampshire*</span>
 
+#### Work In Progress
 
 <span style="color: #2055A4;">"Universal School Choice and Property Values"</span> (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
 
