@@ -7,17 +7,22 @@
   display: inline-block;
   cursor: pointer;
   list-style: none;
-  padding: 0.35em 1.1em;
+  padding: 0.3em 0.9em;
   border-radius: 999px;
   background-color: #E3EEFA;
   color: #2055A4;
   font-weight: bold;
-  font-size: 0.9em;
+  font-size: 0.75em;
   user-select: none;
   transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
 }
 
-// Hide the default browser disclosure triangle
+// Hide the default browser disclosure triangle in every engine
+.abstract summary::marker {
+  content: "";
+  display: none;
+}
+
 .abstract summary::-webkit-details-marker {
   display: none;
 }
