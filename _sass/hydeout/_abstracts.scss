@@ -1,39 +1,41 @@
 // Styled <details>/<summary> dropdowns, used for paper abstracts.
 .abstract {
   margin: 0.75em 0 1.5em;
-  border: 1px solid $border-color;
-  border-radius: 6px;
-  background-color: $gray-1;
-  overflow: hidden;
 }
 
 .abstract summary {
+  display: inline-block;
   cursor: pointer;
   list-style: none;
-  padding: 0.6em 1em;
+  padding: 0.35em 1.1em;
+  border-radius: 999px;
+  background-color: #E3EEFA;
+  color: #2055A4;
   font-weight: bold;
-  color: $link-color;
+  font-size: 0.9em;
   user-select: none;
-  display: flex;
-  align-items: center;
-  transition: background-color 0.15s ease-in-out;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
 }
 
-.abstract summary:hover {
-  background-color: $gray-2;
-}
-
-// Hide the default browser marker so we can draw our own arrow
+// Hide the default browser disclosure triangle
 .abstract summary::-webkit-details-marker {
   display: none;
 }
 
-.abstract summary::before {
-  content: "▸";
-  display: inline-block;
-  margin-right: 0.5em;
-  transition: transform 0.15s ease-in-out;
-  color: $body-muted;
+.abstract summary:hover {
+  background-color: #CFE3F7;
+}
+
+// Invert the bubble while open, as a subtle state cue
+.abstract[open] summary {
+  background-color: #2055A4;
+  color: #fff;
+}
+
+.abstract .abstract-body {
+  margin-top: 0.6em;
+  color: $body-color;
+}
 }
 
 .abstract[open] summary::before {
