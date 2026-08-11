@@ -10,11 +10,6 @@
 // Styled <details>/<summary> dropdowns, used for paper abstracts.
 .abstract {
   margin: 0;
-  // Base sizing on available row space, not the abstract text's
-  // unwrapped width, so the badge doesn't get pushed to a new line
-  // once the abstract is opened.
-  flex: 1 1 0;
-  min-width: 0;
 }
 
 // Static, non-interactive label (e.g. "Job Market Paper")
@@ -25,7 +20,6 @@
   border-radius: 6px;
   color: #2055A4;
   font-size: 0.75em;
-  flex: 0 0 auto;
 }
 
 .abstract summary {
