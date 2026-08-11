@@ -36,13 +36,3 @@
   margin-top: 0.6em;
   color: $body-color;
 }
-}
-
-.abstract[open] summary::before {
-  transform: rotate(90deg);
-}
-
-.abstract .abstract-body {
-  padding: 0 1.1em 1em;
-  color: $body-color;
-}
