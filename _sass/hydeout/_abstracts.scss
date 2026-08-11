@@ -1,6 +1,25 @@
+// Row that holds the abstract dropdown alongside other paper badges
+.paper-badges {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 0.75em 0 1.5em;
+}
+
 // Styled <details>/<summary> dropdowns, used for paper abstracts.
 .abstract {
-  margin: 0.75em 0 1.5em;
+  margin: 0;
+}
+
+// Static, non-interactive label (e.g. "Job Market Paper")
+.badge-outline {
+  display: inline-block;
+  padding: 0.3em 0.9em;
+  border: 1px solid #2055A4;
+  border-radius: 6px;
+  color: #2055A4;
+  font-size: 0.75em;
 }
 
 .abstract summary {
@@ -39,4 +58,5 @@
 .abstract .abstract-body {
   margin-top: 0.6em;
   color: #000;
+  font-size: 0.8rem;
 }
