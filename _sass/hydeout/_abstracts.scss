@@ -11,7 +11,6 @@
   border-radius: 999px;
   background-color: #E3EEFA;
   color: #2055A4;
-  font-weight: bold;
   font-size: 0.75em;
   user-select: none;
   transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
@@ -39,5 +38,5 @@
 
 .abstract .abstract-body {
   margin-top: 0.6em;
-  color: $body-color;
+  color: #000;
 }
