@@ -1,0 +1,46 @@
+// Styled <details>/<summary> dropdowns, used for paper abstracts.
+.abstract {
+  margin: 0.75em 0 1.5em;
+  border: 1px solid $border-color;
+  border-radius: 6px;
+  background-color: $gray-1;
+  overflow: hidden;
+}
+
+.abstract summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0.6em 1em;
+  font-weight: bold;
+  color: $link-color;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.15s ease-in-out;
+}
+
+.abstract summary:hover {
+  background-color: $gray-2;
+}
+
+// Hide the default browser marker so we can draw our own arrow
+.abstract summary::-webkit-details-marker {
+  display: none;
+}
+
+.abstract summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.5em;
+  transition: transform 0.15s ease-in-out;
+  color: $body-muted;
+}
+
+.abstract[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.abstract .abstract-body {
+  padding: 0 1.1em 1em;
+  color: $body-color;
+}
