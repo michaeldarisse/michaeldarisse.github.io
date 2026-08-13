@@ -10,12 +10,13 @@ sidebar_sort_order: 2
 
 <span style="color: #487063;">"The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program"</span>
 
+<span style="color: #78454C;">[Job Market Paper]</span>
+
 <div class="paper-badges">
 <details class="abstract">
 <summary>Abstract</summary>
 <div class="abstract-body">This paper studies the New York City Department of Education Discovery Program, an affirmative action policy implemented to increase access to some of New York City’s most elite public high schools. The Discovery Program allocates reserve seats at New York City’s exam schools to disadvantaged students who successfully complete the course requirements of a summer program. Using a regression discontinuity design (RDD) and student-level administrative data I estimate the causal impact of exam school admission through the Discovery Program on educational outcomes. I find that while students experience an initial reduction in high school GPA, this negative effect does not persist into later years. Conversely, reserve seat offers increase performance on standardized math test scores. Test score gains are larger for female students, while the initial drop in high school GPA is strongest for male students. Under a counterfactual school assignment match with no reserve seats, I show that exam school displacement as a result of the Discovery Program has no effect on math scores, but boosts high school GPA. Taken together, these results suggest that the Discovery Program improves outcomes for disadvantaged students, with little to no cost for those displaced by reserve seats.</div>
 </details>
-<span class="badge-outline">Job Market Paper</span>
 </div>
 
 <span style="font-size: 0.8em;">*Presented at: AEFP 2025, New York City Independent Budget Office, SEA 2025, University of New Hampshire*</span>
