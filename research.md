@@ -34,7 +34,12 @@ sidebar_sort_order: 2
 
 <span style="color: #487063;">"Retrenchment at the Blackboard: How Economic Crises Reshape the Teacher Labor Market"</span> (with [Zachary Gooch](https://zacharygooch.com){:.author-link}) 
 
-
+<div class="paper-badges">
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">This paper explores how economic crises affect the teacher labor market. We construct a novel dataset of teachers in Iowa from 1925 through 1940, and link this data to historical census records. This unique dataset allows us to explore churn in the teacher labor market not captured in census data alone. The historical context of Iowa during the Great Depression provides an ideal setting to investigate the impact of economic crises on teacher labor market dynamics. The Great Depression was the largest economic downturn of the twentieth century, creating strain on a public school system that relied heavily on local property taxes. Iowa in particular received over 90 percent of its public school revenue from local district taxes. By leveraging variation in local school funding constraints on the eve of the Great Depression, we show how economic downturns reshape the supply and composition of the teacher workforce.</div>
+</details>
+</div>
 
 
 #### Publications
