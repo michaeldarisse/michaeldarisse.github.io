@@ -88,32 +88,45 @@
   color: inherit;
 }
 
-// Row of circular filled-green social icon bubbles (e.g. About page)
+// Row of circular filled-green social icon bubbles with a text
+// label alongside each one (e.g. About page)
 .social-links {
   display: flex;
-  gap: 0.75em;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.5em;
   margin: 1.5em 0;
 }
 
 .social-links a {
   display: inline-flex;
   align-items: center;
-  justify-content: center;
-  width: 2.25em;
-  height: 2.25em;
-  border-radius: 999px;
-  background-color: #487063;
+  gap: 0.5em;
+  color: #487063;
+  font-weight: 500;
+  text-decoration: none;
   transition: opacity 0.15s ease-in-out;
 }
 
 .social-links a:hover,
 .social-links a:focus {
-  opacity: 0.9;
+  opacity: 0.8;
   text-decoration: none;
 }
 
+.social-links .icon-bubble {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1.6em;
+  height: 1.6em;
+  border-radius: 999px;
+  background-color: #487063;
+}
+
 .social-links svg {
-  width: 1.1em;
-  height: 1.1em;
+  width: 0.8em;
+  height: 0.8em;
   fill: #FFF7E7;
 }
