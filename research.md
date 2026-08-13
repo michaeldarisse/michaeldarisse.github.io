@@ -28,7 +28,8 @@ sidebar_sort_order: 2
 <details class="abstract">
 <summary>Abstract</summary>
 <div class="abstract-body">Universal school choice, a policy growing in popularity across the U.S., has the potential to break the link between income and public school quality by allowing families to sort into neighborhoods based on preferences over attributes outside of test scores. This paper investigates the impact of Florida's statewide universal school choice policy on the capitalization of public school quality into home prices. Exploiting the policy's statewide rollout in 2023, we use an event study embedded within a border discontinuity design to estimate the effect of universal school choice on the housing market. We find that universal school choice in Florida had no effect on the valuation of public school quality.</div>
-
+</details>
+</div>
 
 
 <span style="color: #487063;">"Retrenchment at the Blackboard: How Economic Crises Reshape the Teacher Labor Market"</span> (with [Zachary Gooch](https://zacharygooch.com){:.author-link}) 
