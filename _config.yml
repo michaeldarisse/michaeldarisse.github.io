@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Michael Darisse
 tagline:          'Michael Darisse'
-description:      'Economics PhD Candidate at Florida State University'
+description:      'Economics Ph.D. Candidate at Florida State University'
 url:              https://michaeldarisse.github.io
 baseurl:          #
                   # the optional subpath of your site, e.g. "/blog"
@@ -16,7 +16,6 @@ baseurl:          #
 
 author:          Michael Darisse
 name:           'Michael Darisse'
-email:          mdarisse@fsu.edu
 
 
 paginate:         4
