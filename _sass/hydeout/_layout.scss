@@ -61,8 +61,6 @@ img{
   padding: $section-spacing;
 
   .site-title {
-    font-family: "Georgia", serif;
-    font-weight: normal;
     font-size: $large-font-size;
     margin-top: 0;
     margin-bottom: $heading-spacing;
@@ -86,17 +84,6 @@ img{
   background: $body-bg;
   color: $body-color;
   padding: $section-spacing;
-
-  a {
-    color: $gray-6;
-    border-bottom: .1em solid $link-color;
-    // background-color: ligthen(#EF8354, 50%);
-
-    &:hover {
-      filter: brightness(150%);
-      text-decoration: none;
-    }
-  }
 }
 
 
