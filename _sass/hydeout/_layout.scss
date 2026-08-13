@@ -105,7 +105,7 @@ img{
 .container > header {
   color: $heading-color;
   background: transparent;
-  margin: ($heading-spacing - $section-spacing)
+  margin: $heading-spacing
           $section-spacing
           $section-spacing;
 
