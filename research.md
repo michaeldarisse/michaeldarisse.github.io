@@ -22,13 +22,13 @@ sidebar_sort_order: 2
 
 #### Work In Progress
 
-<span style="color: #487063;">"Universal School Choice and Property Values"</span> (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
+<span style="color: #487063;">"Universal School Choice and Property Values"</span> (with [Carl Kitchens](https://sites.google.com/site/kitchct/){:.author-link})
 
-<span style="color: #487063;">"Retrenchment at the Blackboard: How Economic Crises Reshape the Teacher Labor Market"</span> (with [Zachary Gooch](https://zacharygooch.com)) 
+<span style="color: #487063;">"Retrenchment at the Blackboard: How Economic Crises Reshape the Teacher Labor Market"</span> (with [Zachary Gooch](https://zacharygooch.com){:.author-link}) 
 
 
 
 
 #### Publications
 
-[<span style="color: #487063;">"Teaching for Large-Scale Reproducibility Verification"</span>](https://doi.org/10.1080/26939169.2022.2074582) (with [Lars Vilhuber](https://www.vilhuber.com/lars/), [Hyuk Son](https://hyukhson.github.io), [Meredith Welch](https://www.meredithswelch.com), and [David Wasser](https://www.davidnwasser.com)). 2022. *Journal of Statistics and Data Science Education*, 30(3): 274–281.
+[<span style="color: #487063;">"Teaching for Large-Scale Reproducibility Verification"</span>](https://doi.org/10.1080/26939169.2022.2074582) (with [Lars Vilhuber](https://www.vilhuber.com/lars/){:.author-link}, [Hyuk Son](https://hyukhson.github.io){:.author-link}, [Meredith Welch](https://www.meredithswelch.com){:.author-link}, and [David Wasser](https://www.davidnwasser.com){:.author-link}). 2022. *Journal of Statistics and Data Science Education*, 30(3): 274–281.
