@@ -16,23 +16,25 @@
 .badge-outline {
   display: inline-block;
   padding: 0.3em 0.9em;
-  border: 1px solid #2055A4;
+  border: 1px solid #487063;
   border-radius: 6px;
-  color: #2055A4;
+  color: #487063;
   font-size: 0.75em;
 }
 
+// Filled pill, matching the site's "Subscribe" button styling
 .abstract summary {
   display: inline-block;
   cursor: pointer;
   list-style: none;
   padding: 0.3em 0.9em;
   border-radius: 999px;
-  background-color: #E3EEFA;
-  color: #2055A4;
+  background-color: #487063;
+  color: #FFF7E7;
   font-size: 0.75em;
+  font-weight: 500;
   user-select: none;
-  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+  transition: opacity 0.15s ease-in-out;
 }
 
 // Hide the default browser disclosure triangle in every engine
@@ -46,17 +48,16 @@
 }
 
 .abstract summary:hover {
-  background-color: #CFE3F7;
+  opacity: 0.9;
 }
 
-// Invert the bubble while open, as a subtle state cue
+// Dim slightly while open, as a subtle state cue
 .abstract[open] summary {
-  background-color: #2055A4;
-  color: #fff;
+  opacity: 0.85;
 }
 
 .abstract .abstract-body {
   margin-top: 0.6em;
-  color: #000;
+  color: #3F2A11;
   font-size: 0.8rem;
 }
