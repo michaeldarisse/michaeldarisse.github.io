@@ -8,7 +8,7 @@ sidebar_sort_order: 2
 
 #### Working Papers
 
-<span style="color: #2055A4;">"The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program"</span> 
+<span style="color: #487063;">"The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program"</span>
 
 <div class="paper-badges">
 <details class="abstract">
@@ -22,13 +22,13 @@ sidebar_sort_order: 2
 
 #### Work In Progress
 
-<span style="color: #2055A4;">"Universal School Choice and Property Values"</span> (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
+<span style="color: #487063;">"Universal School Choice and Property Values"</span> (with [Carl Kitchens](https://sites.google.com/site/kitchct/))
 
-<span style="color: #2055A4;">"Retrenchment at the Blackboard: How Economic Crises Reshape the Teacher Labor Market"</span> (with [Zachary Gooch](https://zacharygooch.com)) 
+<span style="color: #487063;">"Retrenchment at the Blackboard: How Economic Crises Reshape the Teacher Labor Market"</span> (with [Zachary Gooch](https://zacharygooch.com)) 
 
 
 
 
 #### Publications
 
-[<span style="color: #2055A4;">"Teaching for Large-Scale Reproducibility Verification"</span>](https://doi.org/10.1080/26939169.2022.2074582) (with [Lars Vilhuber](https://www.vilhuber.com/lars/), [Hyuk Son](https://hyukhson.github.io), [Meredith Welch](https://www.meredithswelch.com), and [David Wasser](https://www.davidnwasser.com)). 2022. *Journal of Statistics and Data Science Education*, 30(3): 274–281.
+[<span style="color: #487063;">"Teaching for Large-Scale Reproducibility Verification"</span>](https://doi.org/10.1080/26939169.2022.2074582) (with [Lars Vilhuber](https://www.vilhuber.com/lars/), [Hyuk Son](https://hyukhson.github.io), [Meredith Welch](https://www.meredithswelch.com), and [David Wasser](https://www.davidnwasser.com)). 2022. *Journal of Statistics and Data Science Education*, 30(3): 274–281.
