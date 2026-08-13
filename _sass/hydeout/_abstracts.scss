@@ -61,3 +61,29 @@
   color: #3F2A11;
   font-size: 0.8rem;
 }
+
+// Standalone call-to-action pill, same filled-green style as the
+// Abstract bubble, sized for use as a real button (e.g. CV page link)
+.pill-button {
+  display: inline-block;
+  padding: 0.5em 1.2em;
+  border-radius: 999px;
+  background-color: #487063;
+  color: #FFF7E7;
+  font-weight: 500;
+  text-decoration: none;
+  transition: opacity 0.15s ease-in-out;
+}
+
+.pill-button:hover,
+.pill-button:focus {
+  opacity: 0.9;
+  text-decoration: none;
+  color: #FFF7E7;
+}
+
+// "Quiet" link: blends into surrounding text color instead of the
+// site accent, while staying clickable (e.g. coauthor names)
+.author-link {
+  color: inherit;
+}
