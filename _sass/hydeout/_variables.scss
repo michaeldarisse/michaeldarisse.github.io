@@ -17,13 +17,13 @@ $root-font-family: "Palatino", URW Palladio L, serif !default;
 $root-font-size: 1rem !default;
 $root-line-height: 1.5 !default;
 
-$body-color: $gray-5 !default;
+$body-color: #3F2A11 !default;
 $body-muted: $gray-4 !default;
-$body-bg: #fff !default;
-$link-color: $blue !default;
-$heading-color: #2D3142 !default;
+$body-bg: #FFF7E7 !default;
+$link-color: #487063 !default;
+$heading-color: #3F2A11 !default;
 
-$border-color: $gray-2 !default;
+$border-color: rgba(63, 42, 17, 0.2) !default;
 $border-radius: 300px !default;
 $padding-v: 1em !default;
 $padding-h: 1.5em !default;
@@ -45,8 +45,8 @@ $code-font-family: Menlo, Monaco, "Courier New", monospace !default;
 $code-color: #bf616a !default;
 
 // Hyde theming
-$sidebar-bg-color: #2D3142 !default;
-$sidebar-fg-color: white !default;
+$sidebar-bg-color: #487063 !default;
+$sidebar-fg-color: #FFF7E7 !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 
