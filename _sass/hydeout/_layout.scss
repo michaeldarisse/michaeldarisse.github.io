@@ -73,6 +73,8 @@ img{
   flex: 1 1 auto;
   display: flex;
   flex-direction: column;
+  background: $body-bg;
+  color: $body-color;
 
   > .content {
     flex-grow: 1;
@@ -99,9 +101,9 @@ img{
   }
 }
 
-// Make header elements blend into sidebar / background
+// Blend header into the (now always-cream) container background
 .container > header {
-  color: $sidebar-title-color;
+  color: $heading-color;
   background: transparent;
   margin: ($heading-spacing - $section-spacing)
           $section-spacing
