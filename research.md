@@ -8,7 +8,7 @@ sidebar_sort_order: 2
 
 #### Working Papers
 
-<span style="color: #487063;">"The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program"</span>
+<span style="color: #487063;">"The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program"</span> <span style="color: #78454C;">(Job Market Paper)</span>
 
 <span style="color: #78454C;">[Job Market Paper]</span>
 
