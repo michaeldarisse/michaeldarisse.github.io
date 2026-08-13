@@ -7,4 +7,4 @@ sidebar_sort_order: 4
 ---
 
 
-[View my CV here](https://michaeldarisse.github.io/mdarisse_cv/MDarisse_CV.pdf){:.pill-button}
+[View CV](https://michaeldarisse.github.io/mdarisse_cv/MDarisse_CV.pdf){:.pill-button}
