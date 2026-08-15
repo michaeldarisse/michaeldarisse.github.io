@@ -45,7 +45,7 @@ sidebar_sort_order: 2
 
 [<span style="color: #487063;">"Teaching for Large-Scale Reproducibility Verification"</span>](https://doi.org/10.1080/26939169.2022.2074582) (with [Lars Vilhuber](https://www.vilhuber.com/lars/){:.author-link}, [Hyuk Son](https://hyukhson.github.io){:.author-link}, [Meredith Welch](https://www.meredithswelch.com){:.author-link}, and [David Wasser](https://www.davidnwasser.com){:.author-link}). 2022. *Journal of Statistics and Data Science Education*, 30(3): 274–281.
 
-<div class="paper-badges">
+<div class="paper-badges" markdown="1">
 <details class="abstract">
 <summary>Abstract</summary>
 <div class="abstract-body">We describe a unique environment in which undergraduate students from various STEM and social science disciplines are trained in data provenance and reproducible methods, and then apply that knowledge to real, conditionally accepted manuscripts and associated replication packages. We describe in detail the recruitment, training, and regular activities. While the activity is not part of a regular curriculum, the skills and knowledge taught through explicit training of reproducible methods and principles, and reinforced through repeated application in a real-life workflow, contribute to the education of these undergraduate students, and prepare them for post-graduation jobs and further studies.</div>
