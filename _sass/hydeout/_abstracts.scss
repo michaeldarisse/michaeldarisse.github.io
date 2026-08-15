@@ -15,6 +15,7 @@
 // Filled pill, matching the site's "Subscribe" button styling
 .abstract summary {
   display: inline-block;
+  vertical-align: top;
   cursor: pointer;
   list-style: none;
   padding: 0.3em 0.9em;
@@ -56,6 +57,7 @@
 // Abstract bubble, sized for use as a real button (e.g. CV page link)
 .pill-button {
   display: inline-block;
+  vertical-align: top;
   padding: 0.5em 1.2em;
   border-radius: 999px;
   background-color: #487063;
