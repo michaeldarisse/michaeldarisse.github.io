@@ -10,6 +10,8 @@ sidebar_sort_order: 2
 
 <span style="color: #487063;">"The Impact of Exam Schools on Disadvantaged Students: Evidence from NYC’s Discovery Program"</span> (Job Market Paper)
 
+<span>*Job Market Paper.* Draft coming soon!</span>
+
 <div class="paper-badges">
 <details class="abstract">
 <summary>Abstract</summary>
@@ -17,7 +19,7 @@ sidebar_sort_order: 2
 </details>
 </div>
 
-<span style="font-size: 0.8em;">*Presented at: AEFP 2025, New York City Independent Budget Office, SEA 2025, University of New Hampshire*</span>
+<span style="font-size: 0.8em;">*Presented at:* AEFP 2025, New York City Independent Budget Office, SEA 2025, University of New Hampshire</span>
 
 #### Work In Progress
 
