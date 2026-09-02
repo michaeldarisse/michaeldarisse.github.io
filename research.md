@@ -19,7 +19,7 @@ sidebar_sort_order: 2
 </details>
 </div>
 
-<span style="font-size: 0.8em;">*Presented at:* AEFP 2025, New York City Independent Budget Office, SEA 2025, University of New Hampshire</span>
+<span style="font-size: 0.8em;">*Presented at: AEFP 2025, New York City Independent Budget Office, SEA 2025, University of New Hampshire*</span>
 
 #### Work In Progress
 
