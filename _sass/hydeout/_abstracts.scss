@@ -78,11 +78,25 @@
   color: #FFF7E7;
 }
 
-// Shrink pill buttons that sit alongside the Abstract bubble so both
-// match in height/font-size within the same badge row
+// Pill buttons that sit alongside the Abstract bubble (e.g. a PDF
+// link) match its outlined look and size exactly, rather than the
+// larger filled-green style used for a standalone .pill-button
+// (e.g. the CV page link).
 .paper-badges .pill-button {
   padding: 0.2em 0.7em;
+  border-radius: 7px;
+  border: 1px solid #487063;
+  background-color: #FFF7E7;
+  color: #487063;
   font-size: 0.65rem;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
+.paper-badges .pill-button:hover,
+.paper-badges .pill-button:focus {
+  opacity: 1;
+  background-color: #487063;
+  color: #FFF7E7;
 }
 
 // "Quiet" link: blends into surrounding text color instead of the
