@@ -12,20 +12,22 @@
   margin: 0;
 }
 
-// Filled pill, matching the site's "Subscribe" button styling
+// Outlined rounded-rectangle button, creme fill with a dark green
+// outline and text; fills solid green on hover.
 .abstract summary {
   display: inline-block;
   vertical-align: top;
   cursor: pointer;
   list-style: none;
   padding: 0.3em 0.9em;
-  border-radius: 999px;
-  background-color: #487063;
-  color: #FFF7E7;
+  border-radius: 8px;
+  border: 1px solid #487063;
+  background-color: #FFF7E7;
+  color: #487063;
   font-size: 0.75em;
   font-weight: 500;
   user-select: none;
-  transition: opacity 0.15s ease-in-out;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
 }
 
 // Hide the default browser disclosure triangle in every engine
@@ -39,12 +41,14 @@
 }
 
 .abstract summary:hover {
-  opacity: 0.9;
+  background-color: #487063;
+  color: #FFF7E7;
 }
 
-// Dim slightly while open, as a subtle state cue
+// Keep the filled green look while open, as a subtle state cue
 .abstract[open] summary {
-  opacity: 0.85;
+  background-color: #487063;
+  color: #FFF7E7;
 }
 
 .abstract .abstract-body {
@@ -74,6 +78,8 @@
   color: #FFF7E7;
 }
 
+// Shrink pill buttons that sit alongside the Abstract bubble so both
+// match in height/font-size within the same badge row
 .paper-badges .pill-button {
   padding: 0.3em 0.9em;
   font-size: 0.75rem;
