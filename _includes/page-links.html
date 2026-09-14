@@ -6,8 +6,8 @@
 {% for node in pages_list %}
   {% if node.title != null %}
     {% if node.sidebar_link %}
-      <a class="page-link {% if page.url == node.url %} active{% endif %}"
-          href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+<a class="page-link {% if page.url == node.url %} active{% endif %}"
+    href="{% if node.sidebar_url %}{{ node.sidebar_url }}{% else %}{{ site.baseurl }}{{ node.url }}{% endif %}">{{ node.title }}</a>
     {% endif %}
   {% endif %}
 {% endfor %}
