@@ -52,5 +52,5 @@ sidebar_sort_order: 2
 <summary>Abstract</summary>
 <div class="abstract-body">We describe a unique environment in which undergraduate students from various STEM and social science disciplines are trained in data provenance and reproducible methods, and then apply that knowledge to real, conditionally accepted manuscripts and associated replication packages. We describe in detail the recruitment, training, and regular activities. While the activity is not part of a regular curriculum, the skills and knowledge taught through explicit training of reproducible methods and principles, and reinforced through repeated application in a real-life workflow, contribute to the education of these undergraduate students, and prepare them for post-graduation jobs and further studies.</div>
 </details>
-<a href="[/assets/papers/example-paper.pdf](https://michaeldarisse.github.io/mdarisse_cv/Teaching_Large_Scale_Reproducibility.pdf)" class="pill-button" target="_blank">PDF</a>
+<a href="https://michaeldarisse.github.io/mdarisse_cv/Teaching_Large_Scale_Reproducibility.pdf" class="pill-button" target="_blank">PDF</a>
 </div>
