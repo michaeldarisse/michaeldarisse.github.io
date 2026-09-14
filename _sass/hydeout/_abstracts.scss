@@ -19,12 +19,12 @@
   vertical-align: top;
   cursor: pointer;
   list-style: none;
-  padding: 0.3em 0.9em;
-  border-radius: 8px;
+  padding: 0.2em 0.7em;
+  border-radius: 7px;
   border: 1px solid #487063;
   background-color: #FFF7E7;
   color: #487063;
-  font-size: 0.75em;
+  font-size: 0.65em;
   font-weight: 500;
   user-select: none;
   transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
@@ -81,8 +81,8 @@
 // Shrink pill buttons that sit alongside the Abstract bubble so both
 // match in height/font-size within the same badge row
 .paper-badges .pill-button {
-  padding: 0.3em 0.9em;
-  font-size: 0.75rem;
+  padding: 0.2em 0.7em;
+  font-size: 0.65rem;
 }
 
 // "Quiet" link: blends into surrounding text color instead of the
@@ -91,8 +91,8 @@
   color: inherit;
 }
 
-// Row of circular filled-green social icon bubbles with a text
-// label alongside each one (e.g. About page)
+// Row of outlined social icon bubbles with a text label alongside
+// each one (e.g. About page)
 .social-links {
   display: flex;
   justify-content: center;
@@ -108,28 +108,41 @@
   color: #487063;
   font-weight: 500;
   text-decoration: none;
-  transition: opacity 0.15s ease-in-out;
 }
 
 .social-links a:hover,
 .social-links a:focus {
-  opacity: 0.8;
   text-decoration: none;
 }
 
+// Outlined rounded-rectangle icon bubble, creme fill with a dark
+// green outline and icon; fills solid green on hover.
 .social-links .icon-bubble {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  width: 1.6em;
-  height: 1.6em;
-  border-radius: 999px;
+  width: 1.3em;
+  height: 1.3em;
+  border-radius: 6px;
+  border: 1px solid #487063;
+  background-color: #FFF7E7;
+  transition: background-color 0.15s ease-in-out;
+}
+
+.social-links a:hover .icon-bubble,
+.social-links a:focus .icon-bubble {
   background-color: #487063;
 }
 
 .social-links svg {
-  width: 0.8em;
-  height: 0.8em;
+  width: 0.65em;
+  height: 0.65em;
+  fill: #487063;
+  transition: fill 0.15s ease-in-out;
+}
+
+.social-links a:hover svg,
+.social-links a:focus svg {
   fill: #FFF7E7;
 }
