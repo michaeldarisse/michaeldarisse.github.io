@@ -57,32 +57,28 @@
   font-size: 0.8rem;
 }
 
-// Standalone call-to-action pill, same filled-green style as the
-// Abstract bubble, sized for use as a real button (e.g. CV page link)
+// Standalone call-to-action button, same outlined rounded-rectangle
+// style and size as the Abstract bubble (e.g. CV page link, or a
+// paper link sitting next to an Abstract bubble)
 .pill-button {
   display: inline-block;
   vertical-align: top;
-  padding: 0.5em 1.2em;
-  border-radius: 999px;
-  background-color: #487063;
-  color: #FFF7E7;
+  padding: 0.2em 0.7em;
+  border-radius: 7px;
+  border: 1px solid #487063;
+  background-color: #FFF7E7;
+  color: #487063;
+  font-size: 0.65em;
   font-weight: 500;
   text-decoration: none;
-  transition: opacity 0.15s ease-in-out;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
 }
 
 .pill-button:hover,
 .pill-button:focus {
-  opacity: 0.9;
-  text-decoration: none;
+  background-color: #487063;
   color: #FFF7E7;
-}
-
-// Shrink pill buttons that sit alongside the Abstract bubble so both
-// match in height/font-size within the same badge row
-.paper-badges .pill-button {
-  padding: 0.2em 0.7em;
-  font-size: 0.65rem;
+  text-decoration: none;
 }
 
 // "Quiet" link: blends into surrounding text color instead of the
