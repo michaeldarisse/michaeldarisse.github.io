@@ -24,7 +24,7 @@ Analysis of Economic Data - Summer 2024 <br>
 
 #### Teaching Assistant
 
-Applied Econometrics (Master's) - Fall 2024, Fall 2025
+Applied Econometrics (Master's) - Fall 2024, Fall 2025, Fall 2026
 
 Econometrics II (PhD) - Spring 2024
 
