@@ -20,7 +20,7 @@ sidebar_sort_order: 2
 <a href="https://michaeldarisse.github.io/mdarisse_cv/Darisse_JMP_NYC_Discovery.pdf" class="pill-button" target="_blank">Draft</a>
 <a href="https://doi.org/10.26300/91qk-ka33" class="pill-button" target="_blank">EdWorkingPaper</a>
 </div>
-<span style="font-size: 0.8em;">*Presented at: AEFP 2025, New York City Independent Budget Office, SEA 2025, University of New Hampshire, APPAM 2026 (scheduled)*</span>
+<span style="font-size: 0.8em;">*Presented at: AEFP 2025, New York City Independent Budget Office, SEA 2025, University of New Hampshire, APPAM 2026*</span>
 
 
 #### Work In Progress
